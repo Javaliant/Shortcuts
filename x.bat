@@ -1,1 +1,2 @@
-exit 
+@echo off
+exit
